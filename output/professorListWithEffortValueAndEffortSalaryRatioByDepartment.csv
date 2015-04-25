@@ -1,0 +1,353 @@
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+BORUM PEGGY,F,Food Science,36,2836,
+MARSHALL MAURICE,M,Food Science,38,4252,5.56%,49.93%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+GOODRICH RENEE,F,Food Science,32,3326,
+SCHNEIDER KEITH,M,Food Science,30,3638,-6.25%,9.38%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+HENKEN ROBIN,F,Food Science,8,14250,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+KAUWELL GAIL,F,Food Science,50,2703,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SOMMERFIELD LINDA,F,Food Science,0,0,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+GREGORY JESSE,M,Food Science,2,103441,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+MARSHALL MAURICE,M,Food Science,38,4252,
+BORUM PEGGY,F,Food Science,36,2836,-5.26%,-33.30%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SCHNEIDER KEITH,M,Food Science,30,3638,
+GOODRICH RENEE,F,Food Science,32,3326,6.67%,-8.58%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SIMS CHARLES,M,Food Science,24,6387,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SITREN HARRY,M,Food Science,21,4164,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+MONROE MARTHA,F,Forest,22,4972,
+YANONG ROY,M,Forest,20,5093,-9.09%,2.43%
+MARTIN TIMOTHY,M,Forest,24,4515,9.09%,-9.19%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+BARNES GRENVILLE,M,Forest,39,2404,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+CICHRA CHARLES,M,Forest,54,2040,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+JOKELA ERIC,M,Forest,35,4046,
+SMITH SCOT,M,Forest,35,2707,.00%,-33.09%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+MARTIN TIMOTHY,M,Forest,24,4515,
+MONROE MARTHA,F,Forest,22,4972,-8.33%,10.12%
+STEIN TAYLOR,M,Forest,25,4347,4.17%,-3.72%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SMITH SCOT,M,Forest,35,2707,
+JOKELA ERIC,M,Forest,35,4046,.00%,49.46%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+STEIN TAYLOR,M,Forest,25,4347,
+MARTIN TIMOTHY,M,Forest,24,4515,-4.00%,3.86%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+YANONG ROY,M,Forest,20,5093,
+MONROE MARTHA,F,Forest,22,4972,10.00%,-2.38%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+LI JIAN,F,Electrical,34,5138,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+ARNOLD DAVID,M,Electrical,25,5071,
+KHARGONEKAR PRAMOD,M,Electrical,23,14783,-8.00%,191.52%
+XIE HUIKAI,M,Electrical,23,4720,-8.00%,-6.92%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+BOSMAN GIJSBERTUS,M,Electrical,16,8580,
+FANG YUGUANG,M,Electrical,17,8083,6.25%,-5.79%
+LIN JENSHAN,M,Electrical,17,7697,6.25%,-10.29%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+FANG YUGUANG,M,Electrical,17,8083,
+BOSMAN GIJSBERTUS,M,Electrical,16,8580,-5.88%,6.15%
+LIN JENSHAN,M,Electrical,17,7697,.00%,-4.78%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+KHARGONEKAR PRAMOD,M,Electrical,23,14783,
+THOMPSON SCOTT,M,Electrical,22,5603,-4.35%,-62.10%
+XIE HUIKAI,M,Electrical,23,4720,.00%,-68.07%
+ARNOLD DAVID,M,Electrical,25,5071,8.70%,-65.70%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+LIN JENSHAN,M,Electrical,17,7697,
+BOSMAN GIJSBERTUS,M,Electrical,16,8580,-5.88%,11.47%
+FANG YUGUANG,M,Electrical,17,8083,.00%,5.01%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SHEPLAK MARK,M,Electrical,30,4434,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+THOMPSON SCOTT,M,Electrical,22,5603,
+KHARGONEKAR PRAMOD,M,Electrical,23,14783,4.55%,163.84%
+XIE HUIKAI,M,Electrical,23,4720,4.55%,-15.76%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+XIE HUIKAI,M,Electrical,23,4720,
+THOMPSON SCOTT,M,Electrical,22,5603,-4.35%,18.71%
+KHARGONEKAR PRAMOD,M,Electrical,23,14783,.00%,213.20%
+ARNOLD DAVID,M,Electrical,25,5071,8.70%,7.44%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+CAZACU OANA,F,Aerospace Engineering,20,6124,
+FAN ZHONGHUI,M,Aerospace Engineering,20,6149,.00%,.41%
+MEI RENWEI,M,Aerospace Engineering,21,5954,5.00%,-2.78%
+SEGAL CORIN,M,Aerospace Engineering,22,5582,10.00%,-8.85%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+BALACHANDAR SIVARAMAKR,M,Aerospace Engineering,4,56205,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+BANKS SCOTT,M,Aerospace Engineering,16,7592,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+FAN ZHONGHUI,M,Aerospace Engineering,20,6149,
+CAZACU OANA,F,Aerospace Engineering,20,6124,.00%,-.41%
+MEI RENWEI,M,Aerospace Engineering,21,5954,5.00%,-3.17%
+SEGAL CORIN,M,Aerospace Engineering,22,5582,10.00%,-9.22%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+FREGLY BENJAMIN,M,Aerospace Engineering,12,10731,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+HUANG YONG,M,Aerospace Engineering,5,23908,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+MEI RENWEI,M,Aerospace Engineering,21,5954,
+CAZACU OANA,F,Aerospace Engineering,20,6124,-4.76%,2.86%
+FAN ZHONGHUI,M,Aerospace Engineering,20,6149,-4.76%,3.28%
+SEGAL CORIN,M,Aerospace Engineering,22,5582,4.76%,-6.25%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SEGAL CORIN,M,Aerospace Engineering,22,5582,
+CAZACU OANA,F,Aerospace Engineering,20,6124,-9.09%,9.71%
+FAN ZHONGHUI,M,Aerospace Engineering,20,6149,-9.09%,10.16%
+MEI RENWEI,M,Aerospace Engineering,21,5954,-4.55%,6.66%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+TRAN SON TAY ROGER,M,Aerospace Engineering,27,4386,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+VU LOC,M,Aerospace Engineering,42,2564,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+BURKE KAREN,F,Law,7,30407,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+DILLEY PATRICIA,F,Law,25,5437,
+LIDSKY LYRISSA,F,Law,24,7028,-4.00%,29.26%
+SEIGEL MICHAEL,M,Law,24,7299,-4.00%,34.25%
+HERNANDEZ BERTA,F,Law,27,8368,8.00%,53.91%
+MCMAHON MARTIN,M,Law,27,10048,8.00%,84.81%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+DOWD NANCY,F,Law,35,5628,
+HARRISON JEFFREY,M,Law,37,6053,5.71%,7.55%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+HERNANDEZ BERTA,F,Law,27,8368,
+DILLEY PATRICIA,F,Law,25,5437,-7.41%,-35.03%
+MCMAHON MARTIN,M,Law,27,10048,.00%,20.08%
+LEAR ELIZABETH,F,Law,28,5121,3.70%,-38.80%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+KLEIN CHRISTINE,F,Law,19,9833,
+JERRY ROBERT,M,Law,19,13922,.00%,41.58%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+LEAR ELIZABETH,F,Law,28,5121,
+HERNANDEZ BERTA,F,Law,27,8368,-3.57%,63.41%
+MCMAHON MARTIN,M,Law,27,10048,-3.57%,96.21%
+MASHBURN AMY,F,Law,30,5048,7.14%,-1.43%
+RUSH SHARON,F,Law,30,6930,7.14%,35.33%
+WRIGHT DANAYA,F,Law,30,5441,7.14%,6.25%
+NUNN KENNETH,M,Law,30,5685,7.14%,11.01%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+LIDSKY LYRISSA,F,Law,24,7028,
+SEIGEL MICHAEL,M,Law,24,7299,.00%,3.86%
+DILLEY PATRICIA,F,Law,25,5437,4.17%,-22.64%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+LUKE CHARLENE,F,Law,14,10860,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+MASHBURN AMY,F,Law,30,5048,
+HERNANDEZ BERTA,F,Law,27,8368,-10.00%,65.77%
+MCMAHON MARTIN,M,Law,27,10048,-10.00%,99.05%
+LEAR ELIZABETH,F,Law,28,5121,-6.67%,1.45%
+RUSH SHARON,F,Law,30,6930,.00%,37.28%
+WRIGHT DANAYA,F,Law,30,5441,.00%,7.79%
+NUNN KENNETH,M,Law,30,5685,.00%,12.62%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+ROWE ELIZABETH,F,Law,17,9468,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+RUSH SHARON,F,Law,30,6930,
+HERNANDEZ BERTA,F,Law,27,8368,-10.00%,20.75%
+MCMAHON MARTIN,M,Law,27,10048,-10.00%,44.99%
+LEAR ELIZABETH,F,Law,28,5121,-6.67%,-26.10%
+MASHBURN AMY,F,Law,30,5048,.00%,-27.16%
+WRIGHT DANAYA,F,Law,30,5441,.00%,-21.49%
+NUNN KENNETH,M,Law,30,5685,.00%,-17.97%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+WRIGHT DANAYA,F,Law,30,5441,
+HERNANDEZ BERTA,F,Law,27,8368,-10.00%,53.80%
+MCMAHON MARTIN,M,Law,27,10048,-10.00%,84.67%
+LEAR ELIZABETH,F,Law,28,5121,-6.67%,-5.88%
+MASHBURN AMY,F,Law,30,5048,.00%,-7.22%
+RUSH SHARON,F,Law,30,6930,.00%,27.37%
+NUNN KENNETH,M,Law,30,5685,.00%,4.48%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+DAVIS JEFFREY,M,Law,43,4244,
+NAGAN WINSTON,M,Law,47,3941,9.30%,-7.14%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+HARRISON JEFFREY,M,Law,37,6053,
+DOWD NANCY,F,Law,35,5628,-5.41%,-7.02%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+JERRY ROBERT,M,Law,19,13922,
+KLEIN CHRISTINE,F,Law,19,9833,.00%,-29.37%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+MCMAHON MARTIN,M,Law,27,10048,
+DILLEY PATRICIA,F,Law,25,5437,-7.41%,-45.89%
+HERNANDEZ BERTA,F,Law,27,8368,.00%,-16.72%
+LEAR ELIZABETH,F,Law,28,5121,3.70%,-49.03%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+NAGAN WINSTON,M,Law,47,3941,
+DAVIS JEFFREY,M,Law,43,4244,-8.51%,7.69%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+NUNN KENNETH,M,Law,30,5685,
+HERNANDEZ BERTA,F,Law,27,8368,-10.00%,47.19%
+MCMAHON MARTIN,M,Law,27,10048,-10.00%,76.75%
+LEAR ELIZABETH,F,Law,28,5121,-6.67%,-9.92%
+MASHBURN AMY,F,Law,30,5048,.00%,-11.20%
+RUSH SHARON,F,Law,30,6930,.00%,21.90%
+WRIGHT DANAYA,F,Law,30,5441,.00%,-4.29%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SEIGEL MICHAEL,M,Law,24,7299,
+LIDSKY LYRISSA,F,Law,24,7028,.00%,-3.71%
+DILLEY PATRICIA,F,Law,25,5437,4.17%,-25.51%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+GILBERT PAMELA,F,English,21,6393,
+SMITH STEPHANIE,F,English,20,4868,-4.76%,-23.85%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+HEGEMAN SUSAN,F,English,29,3422,
+KING DEBRA,F,English,29,3913,.00%,14.35%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+KING DEBRA,F,English,29,3913,
+HEGEMAN SUSAN,F,English,29,3422,.00%,-12.55%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+PAGE JUDITH,F,English,18,6288,
+LEAVITT DAVID,M,English,18,8093,.00%,28.71%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SCHUELLER MALINI,F,English,46,2556,
+DOBRIN SIDNEY,M,English,43,2303,-6.52%,-9.90%
+AULT DONALD,M,English,44,2388,-4.35%,-6.57%
+TURIM MAUREEN,F,English,47,2296,2.17%,-10.17%
+ULMER GREGORY,M,English,50,2845,8.70%,11.31%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SMITH STEPHANIE,F,English,20,4868,
+PAGE JUDITH,F,English,18,6288,-10.00%,29.17%
+LEAVITT DAVID,M,English,18,8093,-10.00%,66.25%
+GILBERT PAMELA,F,English,21,6393,5.00%,31.33%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+TURIM MAUREEN,F,English,47,2296,
+DOBRIN SIDNEY,M,English,43,2303,-8.51%,.30%
+AULT DONALD,M,English,44,2388,-6.38%,4.01%
+SCHUELLER MALINI,F,English,46,2556,-2.13%,11.32%
+ULMER GREGORY,M,English,50,2845,6.38%,23.91%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+AULT DONALD,M,English,44,2388,
+DOBRIN SIDNEY,M,English,43,2303,-2.27%,-3.56%
+SCHUELLER MALINI,F,English,46,2556,4.55%,7.04%
+TURIM MAUREEN,F,English,47,2296,6.82%,-3.85%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+CARPENTER RONALD,M,English,14,5978,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+CECH JOHN,M,English,52,1966,
+TURIM MAUREEN,F,English,47,2296,-9.62%,16.79%
+ULMER GREGORY,M,English,50,2845,-3.85%,44.71%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+DOBRIN SIDNEY,M,English,43,2303,
+AULT DONALD,M,English,44,2388,2.33%,3.69%
+SCHUELLER MALINI,F,English,46,2556,6.98%,10.99%
+TURIM MAUREEN,F,English,47,2296,9.30%,-.30%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+HOFMANN MICHAEL,M,English,24,4544,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+LEAVITT DAVID,M,English,18,8093,
+PAGE JUDITH,F,English,18,6288,.00%,-22.30%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+POWELL JOHN,M,English,4,28505,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+REID MARK,M,English,33,3346,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SHOAF RICHARD,M,English,37,3296,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+ULMER GREGORY,M,English,50,2845,
+SCHUELLER MALINI,F,English,46,2556,-8.00%,-10.16%
+TURIM MAUREEN,F,English,47,2296,-6.00%,-19.30%
+CECH JOHN,M,English,52,1966,4.00%,-30.90%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+CHEN YUNMEI,F,Mathematics,27,4438,
+TURULL ALEXANDRE,F,Mathematics,28,4354,3.70%,-1.89%
+HAGER WILLIAM,M,Mathematics,28,4811,3.70%,8.40%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+MARTCHEVA MAIA,F,Mathematics,33,2789,
+BERKOVICH ALEXANDER,M,Mathematics,33,2399,.00%,-13.98%
+ALLADI KRISHNASWAMI,M,Mathematics,36,3547,9.09%,27.18%
+SUMMERS STEPHEN,M,Mathematics,36,2612,9.09%,-6.35%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+TURULL ALEXANDRE,F,Mathematics,28,4354,
+CHEN YUNMEI,F,Mathematics,27,4438,-3.57%,1.93%
+HAGER WILLIAM,M,Mathematics,28,4811,.00%,10.50%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+ALLADI KRISHNASWAMI,M,Mathematics,36,3547,
+MARTCHEVA MAIA,F,Mathematics,33,2789,-8.33%,-21.37%
+BERKOVICH ALEXANDER,M,Mathematics,33,2399,-8.33%,-32.37%
+SUMMERS STEPHEN,M,Mathematics,36,2612,.00%,-26.36%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+BERKOVICH ALEXANDER,M,Mathematics,33,2399,
+MARTCHEVA MAIA,F,Mathematics,33,2789,.00%,16.26%
+ALLADI KRISHNASWAMI,M,Mathematics,36,3547,9.09%,47.85%
+SUMMERS STEPHEN,M,Mathematics,36,2612,9.09%,8.88%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+BLOCK LOUIS,M,Mathematics,46,1986,
+GARVAN FRANCIS,M,Mathematics,42,2158,-8.70%,8.66%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+BROOKS JAMES,M,Mathematics,10,10482,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+GARVAN FRANCIS,M,Mathematics,42,2158,
+BLOCK LOUIS,M,Mathematics,46,1986,9.52%,-7.97%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+HAGER WILLIAM,M,Mathematics,28,4811,
+CHEN YUNMEI,F,Mathematics,27,4438,-3.57%,-7.75%
+TURULL ALEXANDRE,F,Mathematics,28,4354,.00%,-9.50%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+PILYUGIN SERGEI,M,Mathematics,23,3617,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+RAO MURALI,M,Mathematics,20,6052,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+ROBINSON PAUL,M,Mathematics,12,6766,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SUMMERS STEPHEN,M,Mathematics,36,2612,
+MARTCHEVA MAIA,F,Mathematics,33,2789,-8.33%,6.78%
+BERKOVICH ALEXANDER,M,Mathematics,33,2399,-8.33%,-8.15%
+ALLADI KRISHNASWAMI,M,Mathematics,36,3547,.00%,35.80%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+ZAPLETAL JINDRICH,M,Mathematics,17,4699,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+CHENG HAI,F,Physics,27,4259,
+MASLOV DMITRII,M,Physics,28,4312,3.70%,1.24%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+AVERY PAUL,M,Physics,33,3809,
+SULLIVAN NEIL,M,Physics,33,6125,.00%,60.80%
+YELTON JOHN,M,Physics,33,4183,.00%,9.82%
+OBUKHOV SERGEI,M,Physics,36,2325,9.09%,-38.96%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+MASLOV DMITRII,M,Physics,28,4312,
+CHENG HAI,F,Physics,27,4259,-3.57%,-1.23%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+MEISEL MARK,M,Physics,44,2618,
+THORN CHARLES,M,Physics,42,3048,-4.55%,16.42%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+OBUKHOV SERGEI,M,Physics,36,2325,
+AVERY PAUL,M,Physics,33,3809,-8.33%,63.83%
+SULLIVAN NEIL,M,Physics,33,6125,-8.33%,163.44%
+YELTON JOHN,M,Physics,33,4183,-8.33%,79.91%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+REITZE DAVID,M,Physics,23,5526,
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+STANTON CHRISTOPHER,M,Physics,20,7171,
+STEWART GREGORY,M,Physics,20,6923,.00%,-3.46%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+STEWART GREGORY,M,Physics,20,6923,
+STANTON CHRISTOPHER,M,Physics,20,7171,.00%,3.58%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+SULLIVAN NEIL,M,Physics,33,6125,
+AVERY PAUL,M,Physics,33,3809,.00%,-37.81%
+YELTON JOHN,M,Physics,33,4183,.00%,-31.71%
+OBUKHOV SERGEI,M,Physics,36,2325,9.09%,-62.04%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+THORN CHARLES,M,Physics,42,3048,
+MEISEL MARK,M,Physics,44,2618,4.76%,-14.11%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+YELTON JOHN,M,Physics,33,4183,
+AVERY PAUL,M,Physics,33,3809,.00%,-8.94%
+SULLIVAN NEIL,M,Physics,33,6125,.00%,46.43%
+OBUKHOV SERGEI,M,Physics,36,2325,9.09%,-44.42%
+Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference
+ZHANG XIAOGUANG,M,Physics,2,72500,

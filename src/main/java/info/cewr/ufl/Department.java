@@ -16,5 +16,9 @@ public class Department {
 		professorList.add(professor);
 
 	}
+	
+	public ArrayList<Professor >getProfessorList() {
+		return this.professorList;
+	}
 
 }
