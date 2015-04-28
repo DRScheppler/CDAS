@@ -90,8 +90,7 @@ public class Core {
 				// within 10% of each other for "effort value" and then figuring
 				// out the ratio of their effort value
 				// to their salary.
-				System.out
-						.println("Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference");
+				System.out.println("Name,Gender,Department,Effort,Effort/Salary,Effort Difference,Salary Difference");
 				Professor curProf = profIterator.next();
 				HashMap<String, String> curProfData = curProf.getData();
 				Integer curProfEffort = Integer.parseInt(curProfData
